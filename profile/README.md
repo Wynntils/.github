@@ -16,4 +16,8 @@
     <img src="https://img.shields.io/github/v/release/Wynntils/Artemis?include_prereleases&label=Artemis CE&style=for-the-badge">
     <img src="https://img.shields.io/github/contributors/Wynntils/Artemis?style=for-the-badge">
 </a>
+<br>
+<a href="https://github.com/Wynntils/launchy">
+    <img src="https://img.shields.io/github/v/release/Wynntils/launchy?include_prereleases&label=Wynntils Mod Installer&style=for-the-badge">
+</a>
 </p>
