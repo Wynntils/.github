@@ -18,6 +18,6 @@
 </a>
 <br>
 <a href="https://github.com/Wynntils/launchy">
-    <img src="https://img.shields.io/github/v/release/Wynntils/launchy?label=Wynntils%20Mod%20Installer&style=for-the-badge&include_prereleases">
+    <img src="https://img.shields.io/github/v/release/Wynntils/launchy?label=Wynntils%20Mod%20Installer&style=for-the-badge&include_prereleases&sort=semver">
 </a>
 </p>
