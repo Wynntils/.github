@@ -5,7 +5,6 @@
 <br>
 <a href="https://github.com/Wynntils/Wynntils">
     <img src="https://img.shields.io/github/v/release/Wynntils/Wynntils?label=Wynntils&style=for-the-badge&sort=semver">
-    <img src="https://img.shields.io/github/v/release/Wynntils/Wynntils?include_prereleases&label=Wynntils CE&style=for-the-badge&sort=semver">
     <img src="https://img.shields.io/github/contributors/Wynntils/Wynntils?style=for-the-badge">
 </a>
 <br>
